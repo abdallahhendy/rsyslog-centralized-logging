@@ -9,3 +9,6 @@ So, making a centralized place to hold logs will help in improving visibility, p
 
 ## The Architecture
 <img width="12317" height="5120" alt="github-rsyslog-log" src="https://github.com/user-attachments/assets/b833a7eb-48e4-421e-95b3-239ec49212be" />
+
+
+> Feel free to contribute
